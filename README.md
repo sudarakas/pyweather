@@ -1,8 +1,8 @@
 # pyweather
 simple weather app using python3 - django
 
-127.0.0.1:8000/admin 
-username : nano
+127.0.0.1:8000/admin <br/> 
+username : nano <br/>
 password: adminPass
 
 ![alt tag](https://i.ibb.co/hRMXwR6/20.png)
